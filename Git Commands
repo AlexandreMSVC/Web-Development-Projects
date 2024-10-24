@@ -1,0 +1,3 @@
+sacar a updated folder do Git: "git pull"
+adicionar tudo à folder do Git: "git commit ."
+saber o que mudou/o que o Git tá a dar track: "git status"
